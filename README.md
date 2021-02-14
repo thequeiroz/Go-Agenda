@@ -1,2 +1,2 @@
-:# Go Agenda:
-:_CLI Agenda_:
+# Go Agenda
+_CLI Agenda_
