@@ -20,6 +20,7 @@ type Contato struct {
 	nome         string
 	formaContato string
 	valorContato string
+
 }
 
 func (contato *Contato) toString() string {

@@ -1,2 +1,2 @@
-# Go Agenda
-Simples agenda em Go lang
+:# Go Agenda:
+:_CLI Agenda_:
